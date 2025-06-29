@@ -1,1 +1,3 @@
-console.log('Hello!')
+document.querySelector('button').addEventListener('click', () => {
+	alert('ah :(')
+})
